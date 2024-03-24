@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/GenericGameLobbyHostSocket.iml
+/.idea/vcs.xml
+/yarn.lock
